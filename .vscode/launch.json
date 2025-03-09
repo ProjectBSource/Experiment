@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Springboottest1Application<springboottest1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "springboottest1com.example.springboottest1.Springboottest1Application",
+            "projectName": "springboottest1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
